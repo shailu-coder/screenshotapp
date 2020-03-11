@@ -1,6 +1,3 @@
-
-
-
 import PIL.ImageGrab
 #import datetime
 from tkinter import *
