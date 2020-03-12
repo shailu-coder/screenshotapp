@@ -1,2 +1,2 @@
 # screenshotapp
-this is simple screenshotapp with python
+this is simple screenshotapp using python
